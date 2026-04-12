@@ -1,4 +1,4 @@
-![nkuliverse](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJndjhwOXptM2dodmo5eDgyeGV2djl5MmxpNzJvbGMwZ3o4ZW1oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI5VtIhHvK37WYo/giphy.gif)
+![nkuliverse](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pvdDR6aG9idXNvYzFqYjN0eHkwOGVibTlwaGt4OXZzeWszcXVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pLDdJtHtiM0v6nIIbw/giphy.gif)
 <!--
 **NkulAIR/NkulAIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
