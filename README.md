@@ -1,4 +1,3 @@
-![nkuliverse](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanUybG5tbWZianNtdWk3YW9pcWE1cm1yazE4YzZvOG53ZzNxbW1ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qkLf0XdeJTUB02UoQ8/giphy.gif)
 <!--
 **NkulAIR/NkulAIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
