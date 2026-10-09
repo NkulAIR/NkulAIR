@@ -29,10 +29,10 @@ I build concurrent servers, data pipelines and clean architecture.
       <a href="https://github.com/NkulAIR/collabspace"><img src="assets/tile-collabspace.svg" alt="CollabSpace, multi-tenant project management SaaS" width="150"></a><br>
       <a href="https://github.com/NkulAIR/collabspace"><img src="https://img.shields.io/github/last-commit/NkulAIR/collabspace?label=last%20commit&style=flat-square&color=4747FF&labelColor=222222" alt="CollabSpace last commit"></a>
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://github.com/NkulAIR/robot-worlds"><img src="assets/tile-robot-worlds.svg" alt="Robot Worlds, multi-client Java server" width="150"></a><br>
       <a href="https://github.com/NkulAIR/robot-worlds"><img src="https://img.shields.io/github/last-commit/NkulAIR/robot-worlds?label=last%20commit&style=flat-square&color=4747FF&labelColor=222222" alt="Robot Worlds last commit"></a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
