@@ -4,9 +4,9 @@
 
 <br>
 
-**Software engineer · Java & Python · Data engineering · Former designer**
+**Software engineer · Java & Python · Data engineering · Digital Designer**
 
-I build concurrent servers, data pipelines and clean architecture, and I design the things I build.
+I build concurrent servers, data pipelines and clean architecture.
 <br>
 
 </div>
@@ -53,10 +53,6 @@ I build concurrent servers, data pipelines and clean architecture, and I design 
 ### [Creator Analytics Unification Dashboard](https://github.com/NkulAIR/creator-analytics-dashboard)
 An ELT pipeline that pulls a creator's YouTube, Twitch and Patreon data into one PostgreSQL warehouse and serves a single Streamlit dashboard, so you can ask questions like "does posting more videos actually grow revenue?"
 `Python` `PostgreSQL` `SQLAlchemy` `Streamlit` `Docker` · [Watch the demo](https://youtu.be/BU_csaYUBD0)
-
-### TeamMzansi · AWS Summit Hackathon, 3rd place
-A two-sided platform where South African citizens log municipal complaints and track progress, while authorised officials manage tickets and update status. Built with AWS Cognito and S3.
-`Python` `AWS`
 
 <br>
 
