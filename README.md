@@ -8,7 +8,6 @@
 
 I build concurrent servers, data pipelines and clean architecture, and I design the things I build.
 <br>
-Johannesburg, South Africa · Available from 1 December 2026
 
 </div>
 
@@ -20,10 +19,6 @@ Johannesburg, South Africa · Available from 1 December 2026
 
 <br>
 
-<!--
-  TODO: tile repo names below must match real, public repos or the "last commit" badge will show an error.
-  Nkuliverse exists today. Update collabspace and robot-worlds once those repos are public.
--->
 <table align="center">
   <tr>
     <td align="center">
@@ -58,12 +53,6 @@ Johannesburg, South Africa · Available from 1 December 2026
 ### [Creator Analytics Unification Dashboard](https://github.com/NkulAIR/creator-analytics-dashboard)
 An ELT pipeline that pulls a creator's YouTube, Twitch and Patreon data into one PostgreSQL warehouse and serves a single Streamlit dashboard, so you can ask questions like "does posting more videos actually grow revenue?"
 `Python` `PostgreSQL` `SQLAlchemy` `Streamlit` `Docker` · [Watch the demo](https://youtu.be/BU_csaYUBD0)
-
-<!-- TODO: uncomment once the repo is mirrored to GitHub, and replace [N] with your real figure
-### [Robot Worlds](https://github.com/NkulAIR/robot-worlds)
-A multi-client Java game server with a domain-driven structure, unit and acceptance tests, and a GitLab CI/CD pipeline. Refactored a 185-line, complexity-36 method into 13 focused methods after a CodeScene review.
-`Java` `Maven` `Mockito` `GitLab CI/CD`
--->
 
 ### TeamMzansi · AWS Summit Hackathon, 3rd place
 A two-sided platform where South African citizens log municipal complaints and track progress, while authorised officials manage tickets and update status. Built with AWS Cognito and S3.
@@ -104,6 +93,6 @@ A two-sided platform where South African citizens log municipal complaints and t
 
 [Email](mailto:nkululekotshaka10@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/nkululeko-tshaka-040b71128) &nbsp;·&nbsp; [Portfolio](https://github.com/NkulAIR/Nkuliverse)
 
-*Come back tomorrow, there will be more.*
+*Come back tomorrow*
 
 </div>
