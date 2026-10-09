@@ -1,2 +1,3 @@
-![NkulAIR](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWkwdzkzZWg4NmdkdnJ2cDBmbDVuMXJqZGVsMmRqdjMyb2I2dml6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9CKehocEWkF8CSLJu4/giphy.gif)
+![NkulAIR](https://media.giphy.com/media/aNYZb8TlTExUvlyAhQ/giphy.gif)
+![NkulAIR](https://media.giphy.com/media/s74xvVeMitFTovtP2M/giphy.gif)
 
