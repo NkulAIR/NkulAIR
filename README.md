@@ -1,2 +1,3 @@
 ![NkulAIR](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlpZm5mNmhtbmF1bzE3bGc0aGtuZHpzeHFsOWVjeG84bGNsZm1xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNYZb8TlTExUvlyAhQ/giphy.gif)
+![NkulAIR-BLOWINGUP](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcng1Ymd5Y3J4d2VjMzJ4d3hpdnlwbjR1eng2N29pMHhidTc3dHpoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s74xvVeMitFTovtP2M/giphy.gif)
 
