@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NkulAIR/NkulAIR/main/assets/nkulair_banner.png" alt="My Banner" width="800">
-</p>
 ![Nkululeko Tshaka, Software Engineer: Java, Python, Data Engineering](assets/nkulair_banner.png)
 
 **Software engineer (Java, Python) · data engineering · former designer**, based in Johannesburg. Software engineering student at WeThinkCode.
